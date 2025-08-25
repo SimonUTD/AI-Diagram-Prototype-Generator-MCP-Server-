@@ -2,6 +2,10 @@
 
 一个专业的、AI驱动的图表与原型绘制MCP服务器。它深度集成了智谱AI、OpenAI、Gemini等多种大语言模型，能够根据自然语言描述，智能生成**多种风格**的 `draw.io` 格式图表和 `HTML` 交互式产品原型。
 
+<a href="https://glama.ai/mcp/servers/@SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-/badge" alt="AI Diagram & Prototype Generator MCP server" />
+</a>
+
 ## ✨ 功能特性 (Features)
 
   - 🤖 **AI 驱动生成**：内置多种强大的AI模型，智能理解复杂需求。
